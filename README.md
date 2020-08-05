@@ -1,7 +1,7 @@
 ### Hi there, I'm visakh 👋
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 
-- 🌱 I'm a Developer and Teacher!. Currently learning everything related to become a Full stack Developer
+- 🌱 I'm a Developer and Teacher!. Currently learning everything to become a Full stack Developer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more to build My Dev Empire
 
