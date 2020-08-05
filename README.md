@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 <p>
-   <h5>Programming Languages : <h5>
+   Programming Languages : 
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -55,7 +55,7 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=visakhvijayan&show_icons=true&hide_border=true&theme=radical)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=visakhvijayan&theme=tokyonight&show_icons=true&hide_border=true)"/>
 
 --
 
