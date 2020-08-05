@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left"  | LinkedIn" width="22px" src="https://www.linkedin.com/in/visakh-vijayakumar-23b36882/" />][linkedin]
+[<img align="left"  alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/visakh-vijayakumar-23b36882/" />][linkedin]
 
 <br />
 
