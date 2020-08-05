@@ -30,9 +30,7 @@
 <br />
 <br />
 
----
+--
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/visakh-vijayakumar-23b36882/
 
