@@ -54,8 +54,8 @@
 <h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
 
 <hr>
-![Visakh's github stats](
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true)"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=visakhvijayan&show_icons=true&hide_border=true)"/>
 
 --
 
