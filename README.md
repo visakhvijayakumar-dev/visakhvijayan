@@ -31,7 +31,7 @@
    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
    <br>
    <h5> Databases : <h5>
-   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski">&nbsp;&nbsp;&nbsp;
+   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
    <br>
