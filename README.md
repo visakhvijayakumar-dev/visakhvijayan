@@ -57,7 +57,7 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=visakhvijayan&theme=tokyonight&show_icons=true&hide_border=true)"/>
+
 
 --
 
