@@ -3,7 +3,6 @@
 
 - 🌱 I'm a Developer and Teacher!. Currently learning everything to become a Full stack Developer
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more to build My Dev Empire
 
 ### Connect with me:
 
